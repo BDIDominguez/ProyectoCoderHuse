@@ -1,0 +1,12 @@
+Flexbox en todos los html
+Grid
+Grid System
+bootstrap
+Agregar Mobile
+Media Cuery en por lo menos 2 paginas
+WireFrame Mobile
+con su readme y su Preview
+seudo clase
+todo en GitHub
+
+tenemos 7 dias para la entrega hasta el dia 8 antes de las 23:00 horas!!!!
