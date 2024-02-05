@@ -1,0 +1,51 @@
+/* stylep.css */
+
+/************************** CONFIGURACION DEL HEADER ***********************************/
+/* Estilo para el fondo del navbar */
+.navbar-custom {
+    background: linear-gradient(45deg, #0868B8, #53d4ff, #2196f3);
+}
+
+/* Ajustes para los enlaces en la barra de navegación */
+.navbar-nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+/* Ajuste para el contenedor principal del navbar */
+.navbar {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-nav .nav-item {
+    flex-grow: 1;
+    text-align: center;
+}
+
+/* Ajuste para el enlace "Accesibilidad" en el dropdown */
+.dropdown-menu .dropdown-item {
+    width: 100%;
+    text-align: center;
+}
+
+/* Ajuste para la imagen del logo en el navbar */
+.navbar-brand {
+    padding: 0; /* Elimina el relleno interno */
+}
+
+.navbar-brand img {
+    max-height: 100%; /* Altura máxima del 100% */
+    width: auto;
+    display: block;
+    margin: 0 auto; /* Centra la imagen horizontalmente */
+}
+.container-fluid{
+    padding: 0;
+}
+
+/******************************** CONFIGURACION DEL CUERPO *********************************************/
+
+
+
+/******************************** CONFIGURACION DEL FOOTER *********************************************/
